@@ -12,5 +12,5 @@
 
 
 ## 技术栈
-<p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,git,github,cloudflare,md,vscode" alt="技术栈" /> </p> <p> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codecodegogogo&theme=github_dark" alt="主页概览" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,git,github,cloudflare,md,vscode" alt="技术栈" /> </p> 
 
