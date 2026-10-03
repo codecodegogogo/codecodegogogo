@@ -5,12 +5,9 @@
     <img src="https://img.shields.io/badge/%F0%9F%8C%90%20%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5-codecodegogogo.qzz.io-0A66C2?style=for-the-badge" alt="个人主页" />
   </a> </p>
 
-## 关于我
-**我想逐步把自己的 GitHub 整理成一个能展示学习过程、项目实践和部署经验的地方。**
+## 关于这里
 
-**我比较在意把事情讲清楚。遇到一个工具、一个部署问题、一个配置流程时，我不只想把它跑通，也想把背后的逻辑整理成自己以后还能看懂的文档。**
+**这是一个能展示学习过程、项目实践和部署经验的地方。**
 
 
-## 技术栈
-<p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,git,github,cloudflare,md,vscode" alt="技术栈" /> </p> 
 
